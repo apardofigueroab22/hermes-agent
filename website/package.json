@@ -37,7 +37,9 @@
   },
   "overrides": {
     "serialize-javascript": "^7.0.5",
-    "uuid": "^14.0.0"
+    "uuid": "^14.0.0",
+    "proxy-addr": "2.0.8",
+    "tinypool": "2.1.2"
   },
   "browserslist": {
     "production": [
